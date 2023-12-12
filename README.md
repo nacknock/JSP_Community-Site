@@ -42,6 +42,8 @@ JSP로 제작한 커뮤니티 사이트 개인 프로젝트입니다.
 
 
 *__유저 테이블(user_data)__
+
+
 ![db_user](https://github.com/nacknock/festival_project/assets/151377332/817ac452-59db-45a3-ac71-6d9245f39e31)
 
 *__게시글 테이블(board_data)__
@@ -52,6 +54,8 @@ JSP로 제작한 커뮤니티 사이트 개인 프로젝트입니다.
  - c_num : 게시글 내에서의 댓글 순서(0일시 댓글 없음)
  - filename, filerealname : 이미지를 업로드했을때 유저가 직접 지정한 파일명, 실제 저장되는 파일명
  - img_bool : 게시글에 이미지가 포함되어있는지 여부 (0일시 X, 1일시 O)
+
+
 ![db_user-table](https://github.com/nacknock/festival_project/assets/151377332/0147d557-ae00-4802-badf-cd67f28d9e64)
  # 이미지
 
