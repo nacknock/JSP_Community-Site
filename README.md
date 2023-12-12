@@ -8,11 +8,16 @@ JSP로 제작한 커뮤니티 사이트 개인 프로젝트입니다.
 
 # 사용한 기술스택
 
--JAVA11
--JSP
--HTML5
--CSS
--JavaScript
--Mysql
+*JAVA11
+
+*JSP
+
+*HTML5
+
+*CSS
+
+*JavaScript
+
+*Mysql
 
 #구현기능
