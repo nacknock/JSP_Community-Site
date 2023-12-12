@@ -35,21 +35,6 @@ JSP로 제작한 커뮤니티 사이트 개인 프로젝트입니다.
   - 댓글 작성, 수정, 삭제
   - 게시글 조회수 집계
 
-# DB구성
-
-* 유저와 게시판 데이터를 담는 두개의 테이블로 구성
-
-
-
-*__유저 테이블(user_data)__
-
-
-![db_user](https://github.com/nacknock/festival_project/assets/151377332/817ac452-59db-45a3-ac71-6d9245f39e31)
-
-*__게시글 테이블(board_data)__
-
-
-![db_user-table](https://github.com/nacknock/festival_project/assets/151377332/0147d557-ae00-4802-badf-cd67f28d9e64)
  # 이미지
 
  프로젝트 실제 화면
